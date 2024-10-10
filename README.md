@@ -26,7 +26,7 @@ pip install pygame
 ```bash
 git clone https://github.com/MohiMozaffari/Catch-fruits.git
 ```
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 
 ```bash
 cd Catch-fruits
